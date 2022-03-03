@@ -1,0 +1,500 @@
+DRUG_0 Potassium Chloride
+DRUG_1 Insulin
+DRUG_2 D5W
+DRUG_3 Furosemide
+DRUG_4 0.9% Sodium Chloride
+DRUG_5 NS
+DRUG_6 Magnesium Sulfate
+DRUG_7 Iso-Osmotic Dextrose
+DRUG_8 Sodium Chloride 0.9%  Flush
+DRUG_9 Acetaminophen
+DRUG_10 Metoprolol
+DRUG_11 5% Dextrose
+DRUG_12 SW
+DRUG_13 Morphine Sulfate
+DRUG_14 Metoprolol Tartrate
+DRUG_15 Lorazepam
+DRUG_16 Calcium Gluconate
+DRUG_17 Heparin
+DRUG_18 Docusate Sodium
+DRUG_19 Vancomycin
+DRUG_20 Bisacodyl
+DRUG_21 Warfarin
+DRUG_22 Heparin Sodium
+DRUG_23 HYDROmorphone (Dilaudid)
+DRUG_24 LR
+DRUG_25 Propofol
+DRUG_26 Pantoprazole
+DRUG_27 Fentanyl Citrate
+DRUG_28 Senna
+DRUG_29 Aspirin
+DRUG_30 Bag
+DRUG_31 Vial
+DRUG_32 Vancomycin HCl
+DRUG_33 Albuterol 0.083% Neb Soln
+DRUG_34 Dextrose 50%
+DRUG_35 Oxycodone-Acetaminophen
+DRUG_36 Ondansetron
+DRUG_37 Levofloxacin
+DRUG_38 Haloperidol
+DRUG_39 Ranitidine
+DRUG_40 Aspirin EC
+DRUG_41 Ipratropium Bromide Neb
+DRUG_42 Famotidine
+DRUG_43 Lisinopril
+DRUG_44 Sodium Bicarbonate
+DRUG_45 Neutra-Phos
+DRUG_46 Potassium Phosphate
+DRUG_47 Pantoprazole Sodium
+DRUG_48 Atorvastatin
+DRUG_49 Nitroglycerin
+DRUG_50 HydrALAzine
+DRUG_51 Diltiazem
+DRUG_52 D5 1/2NS
+DRUG_53 Metoclopramide
+DRUG_54 Amiodarone
+DRUG_55 Docusate Sodium (Liquid)
+DRUG_56 Sterile Water
+DRUG_57 0.9% Sodium Chloride (Mini Bag Plus)
+DRUG_58 Midazolam
+DRUG_59 Syringe
+DRUG_60 Amiodarone HCl
+DRUG_61 Milk of Magnesia
+DRUG_62 OxycoDONE (Immediate Release)
+DRUG_63 Tacrolimus
+DRUG_64 Levothyroxine Sodium
+DRUG_65 Hydromorphone
+DRUG_66 PredniSONE
+DRUG_67 Insulin Human Regular
+DRUG_68 Captopril
+DRUG_69 Iso-Osmotic Sodium Chloride
+DRUG_70 Glucagon
+DRUG_71 Chlorhexidine Gluconate 0.12% Oral Rinse
+DRUG_72 Lactulose
+DRUG_73 Heparin Flush (10 units/ml)
+DRUG_74 Phenylephrine
+DRUG_75 Phytonadione
+DRUG_76 Dexamethasone
+DRUG_77 Multivitamins
+DRUG_78 Phenytoin Sodium
+DRUG_79 Diazepam
+DRUG_80 Influenza Virus Vaccine
+DRUG_81 1/2 NS
+DRUG_82 Norepinephrine
+DRUG_83 MetRONIDAZOLE (FLagyl)
+DRUG_84 Dextrose 5%
+DRUG_85 Simvastatin
+DRUG_86 Zolpidem Tartrate
+DRUG_87 Piperacillin-Tazobactam Na
+DRUG_88 Ketorolac
+DRUG_89 Pneumococcal Vac Polyvalent
+DRUG_90 CefazoLIN
+DRUG_91 Potassium Chl 20 mEq / 1000 mL D5 1/2 NS
+DRUG_92 CefePIME
+DRUG_93 Piperacillin-Tazobactam
+DRUG_94 Heparin Flush CVL  (100 units/ml)
+DRUG_95 Metronidazole
+DRUG_96 Calcium Carbonate
+DRUG_97 Phenylephrine HCl
+DRUG_98 Magnesium Oxide
+DRUG_99 DiphenhydrAMINE
+DRUG_100 Glycopyrrolate
+DRUG_101 NS (Mini Bag Plus)
+DRUG_102 Midazolam HCl
+DRUG_103 Amlodipine
+DRUG_104 Ciprofloxacin HCl
+DRUG_105 Fluconazole
+DRUG_106 Phenytoin
+DRUG_107 FoLIC Acid
+DRUG_108 Gabapentin
+DRUG_109 Prednisone
+DRUG_110 Labetalol
+DRUG_111 Digoxin
+DRUG_112 D5W (EXCEL BAG)
+DRUG_113 Soln.
+DRUG_114 Acetylcysteine 20%
+DRUG_115 Meropenem
+DRUG_116 MethylPREDNISolone Sodium Succ
+DRUG_117 Neostigmine
+DRUG_118 LeVETiracetam
+DRUG_119 Soln
+DRUG_120 D10W
+DRUG_121 Sodium Chloride
+DRUG_122 Meperidine
+DRUG_123 Hydrocortisone Na Succ.
+DRUG_124 Hydralazine HCl
+DRUG_125 Albumin 25% (12.5g / 50mL)
+DRUG_126 Ipratropium Bromide MDI
+DRUG_127 Albuterol
+DRUG_128 Prochlorperazine
+DRUG_129 CeftriaXONE
+DRUG_130 Ibuprofen
+DRUG_131 NS (Glass Bottle)
+DRUG_132 Ciprofloxacin IV
+DRUG_133 Quetiapine Fumarate
+DRUG_134 Enoxaparin Sodium
+DRUG_135 Sucralfate
+DRUG_136 Omeprazole
+DRUG_137 Clopidogrel Bisulfate
+DRUG_138 Thiamine
+DRUG_139 Lactated Ringers
+DRUG_140 Sodium Phosphate
+DRUG_141 traZODONE
+DRUG_142 Ferrous Sulfate
+DRUG_143 Carvedilol
+DRUG_144 Atenolol
+DRUG_145 Syringe (Neonatal) *D5W*
+DRUG_146 Atropine Sulfate
+DRUG_147 Miconazole Powder 2%
+DRUG_148 Nitroprusside Sodium
+DRUG_149 Albuterol Inhaler
+DRUG_150 Albuterol-Ipratropium
+DRUG_151 Sodium Polystyrene Sulfonate
+DRUG_152 Alteplase (Catheter Clearance)
+DRUG_153 Vitamin D
+DRUG_154 Dolasetron Mesylate
+DRUG_155 Labetalol HCl
+DRUG_156 Syringe (Neonatal)
+DRUG_157 Mycophenolate Mofetil
+DRUG_158 Clopidogrel
+DRUG_159 Diphenhydramine HCl
+DRUG_160 Olanzapine (Disintegrating Tablet)
+DRUG_161 Vasopressin
+DRUG_162 Cefazolin
+DRUG_163 Potassium Chloride (Powder)
+DRUG_164 Potassium Chl 20 mEq / 1000 mL NS
+DRUG_165 TraMADOL (Ultram)
+DRUG_166 Nystatin Oral Suspension
+DRUG_167 Lidocaine Jelly 2% (Urojet)
+DRUG_168 Albumin 5% (25g / 500mL)
+DRUG_169 Spironolactone
+DRUG_170 NEO*IV*Gentamicin
+DRUG_171 HydrALAZINE HCl
+DRUG_172 Polyethylene Glycol
+DRUG_173 Albuterol Neb Soln
+DRUG_174 Fluticasone Propionate 110mcg
+DRUG_175 Propofol (Generic)
+DRUG_176 Potassium Chloride Replacement (Oncology)
+DRUG_177 Humulin-R Insulin
+DRUG_178 Acetaminophen (Liquid)
+DRUG_179 Syringe (IV Room)
+DRUG_180 Clonazepam
+DRUG_181 Hydrochlorothiazide
+DRUG_182 5% Dextrose (EXCEL BAG)
+DRUG_183 Heparin Flush PICC (100 units/ml)
+DRUG_184 Heparin (Preservative Free)
+DRUG_185 Acyclovir
+DRUG_186 Folic Acid
+DRUG_187 Epoetin Alfa
+DRUG_188 Nitroglycerin SL
+DRUG_189 Lansoprazole Oral Disintegrating Tab
+DRUG_190 Cisatracurium Besylate
+DRUG_191 Metoprolol Succinate XL
+DRUG_192 Send 500mg Vial
+DRUG_193 Azithromycin
+DRUG_194 Milrinone
+DRUG_195 Thiamine HCl
+DRUG_196 Cosyntropin
+DRUG_197 Fentanyl Patch
+DRUG_198 Olanzapine
+DRUG_199 D5NS
+DRUG_200 Allopurinol
+DRUG_201 Aluminum-Magnesium Hydrox.-Simethicone
+DRUG_202 Isosorbide Mononitrate (Extended Release)
+DRUG_203 Ampicillin Sodium
+DRUG_204 Simethicone
+DRUG_205 Lidocaine 1%
+DRUG_206 Mannitol 20%
+DRUG_207 Sulfameth/Trimethoprim DS
+DRUG_208 Acetaminophen IV
+DRUG_209 PHENYLEPHrine
+DRUG_210 Citalopram Hydrobromide
+DRUG_211 Clindamycin
+DRUG_212 Methadone
+DRUG_213 Linezolid
+DRUG_214 Octreotide Acetate
+DRUG_215 traZODONE HCl
+DRUG_216 NEO*PO*Ferrous Sulfate Elixir
+DRUG_217 Epinephrine
+DRUG_218 Sarna Lotion
+DRUG_219 Methylprednisolone Na Succ.
+DRUG_220 Guaifenesin
+DRUG_221 Gentamicin
+DRUG_222 Vancomycin Oral Liquid
+DRUG_223 Isotonic Sodium Chloride
+DRUG_224 Cyclosporine Modified (Neoral)
+DRUG_225 Albumin 5% (12.5g / 250mL)
+DRUG_226 Oxycodone
+DRUG_227 Lidocaine 5% Patch
+DRUG_228 Artificial Tears
+DRUG_229 Nicotine Patch
+DRUG_230 Sodium Chloride Nasal
+DRUG_231 Valsartan
+DRUG_232 DiphenhydrAMINE HCl
+DRUG_233 Ascorbic Acid
+DRUG_234 Calcium Acetate
+DRUG_235 Metoprolol XL
+DRUG_236 Prismasate (B32 K2)
+DRUG_237 Metolazone
+DRUG_238 Multivitamin IV
+DRUG_239 NiCARdipine IV
+DRUG_240 Eptifibatide
+DRUG_241 Scopolamine Patch
+DRUG_242 Dexmedetomidine
+DRUG_243 Lansoprazole Oral Suspension
+DRUG_244 DopAmine
+DRUG_245 NORepinephrine
+DRUG_246 Ampicillin-Sulbactam
+DRUG_247 Sulfameth/Trimethoprim SS
+DRUG_248 Oxycodone SR (OxyconTIN)
+DRUG_249 NEO*IV*Caffeine Citrate
+DRUG_250 Nephrocaps
+DRUG_251 Levetiracetam
+DRUG_252 Losartan Potassium
+DRUG_253 Golytely
+DRUG_254 0.45% Sodium Chloride
+DRUG_255 Alprazolam
+DRUG_256 Isosorbide Dinitrate
+DRUG_257 Cyanocobalamin
+DRUG_258 Tamsulosin
+DRUG_259 Diltiazem Extended-Release
+DRUG_260 Hydrocodone-Acetaminophen
+DRUG_261 Nesiritide
+DRUG_262 Phenytoin (Suspension)
+DRUG_263 DOPamine
+DRUG_264 NEO*IV*Ampicillin Sodium
+DRUG_265 CloniDINE
+DRUG_266 Mirtazapine
+DRUG_267 Prismasate (B22 K4)
+DRUG_268 Bupivacaine 0.5%
+DRUG_269 Tiotropium Bromide
+DRUG_270 Morphine Sulfate IR
+DRUG_271 Pravastatin
+DRUG_272 Artificial Tear Ointment
+DRUG_273 Ceftriaxone
+DRUG_274 Sertraline
+DRUG_275 Promethazine HCl
+DRUG_276 Sevelamer
+DRUG_277 Chlorothiazide Sodium
+DRUG_278 MetFORMIN (Glucophage)
+DRUG_279 Midodrine
+DRUG_280 Cephalexin
+DRUG_281 NEO*IV*Fat Emulsion
+DRUG_282 Syringe (0.9% Sodium Chloride)
+DRUG_283 Esmolol
+DRUG_284 Methadone HCl
+DRUG_285 NEO*PO*Caffeine Citrate
+DRUG_286 Torsemide
+DRUG_287 AcetaZOLamide Sodium
+DRUG_288 Sodium CITRATE 4%
+DRUG_289 Bupivacaine 0.1%
+DRUG_290 Desmopressin Acetate
+DRUG_291 Vecuronium Bromide
+DRUG_292 Mupirocin Nasal Ointment 2%
+DRUG_293 Daptomycin
+DRUG_294 OxycoDONE Liquid
+DRUG_295 Ciprofloxacin
+DRUG_296 PNEUMOcoccal Vac Polyvalent
+DRUG_297 Methylprednisolone Na Succ
+DRUG_298 Bumetanide
+DRUG_299 Nadolol
+DRUG_300 Albumin 25% (12.5gm)
+DRUG_301 HYDROmorphone
+DRUG_302 Erythromycin 0.5% Ophth Oint
+DRUG_303 Loperamide
+DRUG_304 Latanoprost 0.005% Ophth. Soln.
+DRUG_305 Cepacol (Menthol)
+DRUG_306 Sodium Chloride 3% (Hypertonic)
+DRUG_307 Rosuvastatin Calcium
+DRUG_308 Magnesium Citrate
+DRUG_309 Morphine SR (MS Contin)
+DRUG_310 Aztreonam
+DRUG_311 Fluticasone-Salmeterol Diskus (250/50)
+DRUG_312 OxycoDONE-Acetaminophen Elixir
+DRUG_313 Risperidone
+DRUG_314 Azithromycin
+DRUG_315 NIFEdipine CR
+DRUG_316 Potassium Chl 40 mEq / 1000 mL D5 1/2 NS
+DRUG_317 Neomycin-Polymyxin-Bacitracin
+DRUG_318 Syringe (Neonatal) *NS*
+DRUG_319 ValGANCIclovir
+DRUG_320 Readi-Cat 2 (Barium Sulfate 2% Suspension)
+DRUG_321 Colchicine
+DRUG_322 Sirolimus
+DRUG_323 Lansoprazole
+DRUG_324 Fludrocortisone Acetate
+DRUG_325 Rifaximin
+DRUG_326 Oxycodone (Sustained Release)
+DRUG_327 Gentamicin Sulfate
+DRUG_328 Protamine Sulfate
+DRUG_329 Ezetimibe
+DRUG_330 Montelukast Sodium
+DRUG_331 Voriconazole
+DRUG_332 GlyBURIDE
+DRUG_333 Heparin Dwell (1000 Units/mL)
+DRUG_334 Fluoxetine
+DRUG_335 Caspofungin
+DRUG_336 Benzonatate
+DRUG_337 AMP
+DRUG_338 Ursodiol
+DRUG_339 Fexofenadine
+DRUG_340 Ondansetron ODT
+DRUG_341 Argatroban
+DRUG_342 Finasteride
+DRUG_343 Filgrastim
+DRUG_344 Lidocaine
+DRUG_345 NEO*IV*Parenteral Nutrition
+DRUG_346 0.83% Sodium Chloride
+DRUG_347 Ceftazidime
+DRUG_348 Fluticasone Propionate NASAL
+DRUG_349 Nafcillin
+DRUG_350 NS Epidural Bag
+DRUG_351 Fluticasone-Salmeterol (250/50)
+DRUG_352 Potassium Chl 40 mEq / 1000 mL NS
+DRUG_353 Metoprolol XL (Toprol XL)
+DRUG_354 Acetaminophen-Caff-Butalbital
+DRUG_355 Paroxetine
+DRUG_356 Citalopram
+DRUG_357 Albumin 25% (12.5 g)
+DRUG_358 Normocarb
+DRUG_359 Enalapril Maleate
+DRUG_360 Morphine Sulfate (Oral Soln.)
+DRUG_361 Clonidine HCl
+DRUG_362 Potassium Chl 20 mEq / 1000 mL D5NS
+DRUG_363 GlipiZIDE
+DRUG_364 Aluminum Hydroxide Suspension
+DRUG_365 DOBUTamine
+DRUG_366 Metformin
+DRUG_367 Succinylcholine
+DRUG_368 Nimodipine
+DRUG_369 Calcitriol
+DRUG_370 Tamsulosin HCl
+DRUG_371 Calcium Replacement (Oncology)
+DRUG_372 Amino Acids 4.25% W/ Dextrose 5%
+DRUG_373 Heparin Flush (100 units/ml)
+DRUG_374 Sulfameth/Trimethoprim
+DRUG_375 Epidural Bag
+DRUG_376 Dexmedetomidine HCl
+DRUG_377 HYDROmorphone P.F.
+DRUG_378 Erythromycin
+DRUG_379 Valproate Sodium
+DRUG_380 Tobramycin Sulfate
+DRUG_381 Sodium Acetate
+DRUG_382 Heparin Flush (1000 units/mL)
+DRUG_383 Donepezil
+DRUG_384 Tuberculin Protein
+DRUG_385 Oxazepam
+DRUG_386 Loperamide HCl
+DRUG_387 Baclofen
+DRUG_388 Tacrolimus Suspension
+DRUG_389 NEO*IV*Vancomycin
+DRUG_390 Guaifenesin-Dextromethorphan
+DRUG_391 Cetylpyridinium Chl (Cepacol)
+DRUG_392 Sertraline HCl
+DRUG_393 BuPROPion (Sustained Release)
+DRUG_394 Acetaminophen w/Codeine
+DRUG_395 Calcium Chloride
+DRUG_396 Anti-Thymocyte Globulin (Rabbit)
+DRUG_397 Mannitol 20 %
+DRUG_398 Fosphenytoin
+DRUG_399 Oxycodone-Acetaminophen Elixir
+DRUG_400 Famotidine (IV)
+DRUG_401 Escitalopram Oxalate
+DRUG_402 Citrate Dextrose 3% (ACD-A) CRRT
+DRUG_403 Nitroglycerin Ointment  2%
+DRUG_404 Cefepime
+DRUG_405 Etomidate
+DRUG_406 Micafungin
+DRUG_407 Zinc Sulfate
+DRUG_408 Amoxicillin-Clavulanic Acid
+DRUG_409 Venlafaxine XR
+DRUG_410 CefTRIAXone
+DRUG_411 Brimonidine Tartrate 0.15% Ophth.
+DRUG_412 Unasyn
+DRUG_413 Morphine Sulfate (Concentrated Oral Soln)
+DRUG_414 Hydromorphone P.F.
+DRUG_415 D5LR
+DRUG_416 Hespan
+DRUG_417 Valproic Acid
+DRUG_418 Maalox/Diphenhydramine/Lidocaine
+DRUG_419 CycloSPORINE (Sandimmune)
+DRUG_420 Phenytoin Sodium Extended
+DRUG_421 Aluminum-Magnesium Hydroxide
+DRUG_422 Carbidopa-Levodopa (25-100)
+DRUG_423 Promethazine
+DRUG_424 Enalaprilat
+DRUG_425 Ambisome
+DRUG_426 Duloxetine
+DRUG_427 Doxycycline Hyclate
+DRUG_428 traMADOL
+DRUG_429 Acetazolamide Sodium
+DRUG_430 Albuterol MDI
+DRUG_431 Glyburide
+DRUG_432 sevelamer CARBONATE
+DRUG_433 Paroxetine HCl
+DRUG_434 Doxazosin
+DRUG_435 NS Epidural Bag (0.9% NaCl)
+DRUG_436 Oxybutynin
+DRUG_437 Bacitracin Ointment
+DRUG_438 Verapamil SR
+DRUG_439 Lidocaine Viscous 2%
+DRUG_440 Artificial Tears Preserv. Free
+DRUG_441 Fluoxetine HCl
+DRUG_442 Oxycodone-Acetaminophen (5mg-325mg)
+DRUG_443 Alteplase
+DRUG_444 LaMOTrigine
+DRUG_445 Naloxone HCl
+DRUG_446 NEO*PO*MCT Oil
+DRUG_447 CycloSPORINE (Neoral) MODIFIED
+DRUG_448 Alendronate Sodium
+DRUG_449 HydrOXYzine
+DRUG_450 NEO*PO*Vitamin E Drops
+DRUG_451 Verapamil HCl
+DRUG_452 Hydrocortisone
+DRUG_453 CeftazIDIME
+DRUG_454 Isosorbide Mononitrate
+DRUG_455 Lactulose Enema
+DRUG_456 Valganciclovir HCl
+DRUG_457 Hydroxyurea
+DRUG_458 Acetylcysteine (IV)
+DRUG_459 Yellow CADD Cassette
+DRUG_460 Ferrous Gluconate
+DRUG_461 Morphine Sulfate SR
+DRUG_462 Ganciclovir
+DRUG_463 Heparin Sodium (Preservative Free)
+DRUG_464 Sulfameth/Trimethoprim Suspension
+DRUG_465 Naloxone
+DRUG_466 Nitroglycerin Oint. 2%
+DRUG_467 BuPROPion
+DRUG_468 Timolol Maleate 0.5%
+DRUG_469 Divalproex Sodium
+DRUG_470 Oxcarbazepine
+DRUG_471 PHENObarbital
+DRUG_472 Dorzolamide 2%/Timolol 0.5% Ophth.
+DRUG_473 Gemfibrozil
+DRUG_474 Aspirin Desensitization (Angioedema)
+DRUG_475 Midodrine HCl
+DRUG_476 CycloSPORINE Modified (Neoral)
+DRUG_477 Phosphorus
+DRUG_478 Chlorhexidine Gluconate
+DRUG_479 Imipenem-Cilastatin
+DRUG_480 Cefpodoxime Proxetil
+DRUG_481 Albumin 5% (25 g)
+DRUG_482 AcetaZOLamide
+DRUG_483 Albumin 5% (12.5gm)
+DRUG_484 Venlafaxine
+DRUG_485 Oxacillin
+DRUG_486 Pregabalin
+DRUG_487 NIFEdipine
+DRUG_488 Syringe (Chemo)
+DRUG_489 Sodium Chloride
+DRUG_490 NEO*IM*Hepatitis B Vaccine
+DRUG_491 Oxymetazoline HCl
+DRUG_492 Multivitamins W/minerals
+DRUG_493 Salmeterol Xinafoate Diskus (50 mcg)
+DRUG_494 Fish Oil (Omega 3)
+DRUG_495 Mycophenolate Mofetil Suspension
+DRUG_496 Hyoscyamine
+DRUG_497 Heparin Flush (5000 Units/mL)
+DRUG_498 Carbamazepine
+DRUG_499 Clonidine TTS 1 Patch
