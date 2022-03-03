@@ -1,0 +1,77 @@
+LAB_51463 Hematology | Urine | Bacteria
+LAB_51464 Hematology | Urine | Bilirubin
+LAB_51466 Hematology | Urine | Blood
+LAB_50800 BLOOD GAS | BLOOD | SPECIMEN TYPE
+LAB_50802 Blood Gas | Blood | Base Excess
+LAB_50804 Blood Gas | Blood | Calculated Total CO2
+LAB_50808 Blood Gas | Blood | Free Calcium
+LAB_50809 Blood Gas | Blood | Glucose
+LAB_50810 Blood Gas | Blood | Hematocrit, Calculated
+LAB_50811 Blood Gas | Blood | Hemoglobin
+LAB_50812 Blood Gas | Blood | Intubated
+LAB_50813 Blood Gas | Blood | Lactate
+LAB_50816 Blood Gas | Blood | Oxygen
+LAB_50817 Blood Gas | Blood | Oxygen Saturation
+LAB_50818 Blood Gas | Blood | pCO2
+LAB_50819 Blood Gas | Blood | PEEP
+LAB_50820 Blood Gas | Blood | pH
+LAB_50821 Blood Gas | Blood | pO2
+LAB_50822 Blood Gas | Blood | Potassium, Whole Blood
+LAB_50824 Blood Gas | Blood | Sodium, Whole Blood
+LAB_50825 Blood Gas | Blood | Temperature
+LAB_50826 Blood Gas | Blood | Tidal Volume
+LAB_50827 Blood Gas | Blood | Ventilation Rate
+LAB_50828 Blood Gas | Blood | Ventilator
+LAB_50861 Chemistry | Blood | Alanine Aminotransferase (ALT)
+LAB_50862 Chemistry | Blood | Albumin
+LAB_50863 Chemistry | Blood | Alkaline Phosphatase
+LAB_50868 Chemistry | Blood | Anion Gap
+LAB_50878 Chemistry | Blood | Asparate Aminotransferase (AST)
+LAB_50882 Chemistry | Blood | Bicarbonate
+LAB_50885 Chemistry | Blood | Bilirubin, Total
+LAB_50893 Chemistry | Blood | Calcium, Total
+LAB_50902 Chemistry | Blood | Chloride
+LAB_50910 Chemistry | Blood | Creatine Kinase (CK)
+LAB_50911 Chemistry | Blood | Creatine Kinase, MB Isoenzyme
+LAB_50912 Chemistry | Blood | Creatinine
+LAB_50931 Chemistry | Blood | Glucose
+LAB_50954 Chemistry | Blood | Lactate Dehydrogenase (LD)
+LAB_50956 Chemistry | Blood | Lipase
+LAB_50960 Chemistry | Blood | Magnesium
+LAB_50970 Chemistry | Blood | Phosphate
+LAB_50971 Chemistry | Blood | Potassium
+LAB_50983 Chemistry | Blood | Sodium
+LAB_51003 Chemistry | Blood | Troponin T
+LAB_51006 Chemistry | Blood | Urea Nitrogen
+LAB_51144 Hematology | Blood | Bands
+LAB_51146 Hematology | Blood | Basophils
+LAB_51200 Hematology | Blood | Eosinophils
+LAB_51221 Hematology | Blood | Hematocrit
+LAB_51222 Hematology | Blood | Hemoglobin
+LAB_51237 Hematology | Blood | INR(PT)
+LAB_51244 Hematology | Blood | Lymphocytes
+LAB_51248 Hematology | Blood | MCH
+LAB_51249 Hematology | Blood | MCHC
+LAB_51250 Hematology | Blood | MCV
+LAB_51254 Hematology | Blood | Monocytes
+LAB_51256 Hematology | Blood | Neutrophils
+LAB_51265 Hematology | Blood | Platelet Count
+LAB_51274 Hematology | Blood | PT
+LAB_51275 Hematology | Blood | PTT
+LAB_51277 Hematology | Blood | RDW
+LAB_51279 Hematology | Blood | Red Blood Cells
+LAB_51301 Hematology | Blood | White Blood Cells
+LAB_51476 Hematology | Urine | Epithelial Cells
+LAB_51478 Hematology | Urine | Glucose
+LAB_51484 Hematology | Urine | Ketone
+LAB_51486 Hematology | Urine | Leukocytes
+LAB_51487 Hematology | Urine | Nitrite
+LAB_51491 Hematology | Urine | pH
+LAB_51492 Hematology | Urine | Protein
+LAB_51493 Hematology | Urine | RBC
+LAB_51498 Hematology | Urine | Specific Gravity
+LAB_51506 Hematology | Urine | Urine Appearance
+LAB_51508 Hematology | Urine | Urine Color
+LAB_51514 Hematology | Urine | Urobilinogen
+LAB_51516 Hematology | Urine | WBC
+LAB_51519 Hematology | Urine | Yeast
