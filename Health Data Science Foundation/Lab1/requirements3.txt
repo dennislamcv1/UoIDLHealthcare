@@ -1,0 +1,11 @@
+# Stage 3:
+# Using pytorch-geometric find-links. Note that torch-geometric itself is in
+# the normal Pypi index, not the find-links page, so we do not list it here.
+# Official pytorch must already be installed or these installs may fail.
+
+--no-index
+-f https://pytorch-geometric.com/whl/torch-1.10.0+cpu.html
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv

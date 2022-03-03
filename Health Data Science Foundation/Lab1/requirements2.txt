@@ -1,0 +1,12 @@
+# Stage 2: PyTorch official packages only.
+# Install using the versions from find-link page. We want to be sure to
+# manually install these packages before any other packages that depend
+# on torch because pip will not always resolve the order correctly.
+# It's a problem with how packages list their dependencies, not a pip bug.
+# Don't specify --no-index here.
+
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.10.0+cpu
+torchvision==0.11.1+cpu
+torchaudio==0.10.0+cpu
+torchtext==0.11.0
